@@ -55,3 +55,5 @@ Feel free to check issues page.
 
 📄 License
 This project is licensed under the MIT License.
+
+Built with ~~Chat GPT~~ ❤️
