@@ -19,10 +19,6 @@ A simple and elegant web application for transforming text into various formats 
 - SEO-friendly structure
 - Open source and easy to customize
 
-## 📸 Preview
-
-![screenshot](screenshot.png)
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -34,7 +30,7 @@ A simple and elegant web application for transforming text into various formats 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/text-transformer.git
+   git clone https://github.com/Dudu197/text-transformer.git
    cd text-transformer
    ```
 
